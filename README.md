@@ -8,7 +8,6 @@ Designed as a portfolio-ready project to showcase Python development,
 game logic, and problem‑solving skills 🚀
 
 ------------------------------------------------------------------------
-
 ## 🚀 Features
 
 -   Classic Minesweeper gameplay\
