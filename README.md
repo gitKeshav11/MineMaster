@@ -9,8 +9,6 @@ game logic, and problem‑solving skills 🚀
 
 ------------------------------------------------------------------------
 ## 🚀 Features
-
-
 -   Classic Minesweeper gameplay\
 -   Smart grid-based logic\
 -   Clean and structured Python code\
