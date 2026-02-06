@@ -14,8 +14,6 @@ game logic, and problem‑solving skills 🚀
 -   Clean and structured Python code\
 -   Beginner-friendly project\
 -   Portfolio-ready game
-
-
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
